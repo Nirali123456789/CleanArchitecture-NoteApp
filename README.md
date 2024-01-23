@@ -63,8 +63,8 @@ res
 
 <img width="325" alt="Screenshot 2024-01-19 at 2 11 06 PM" src="https://github.com/Nirali123456789/CleanArchitecture-NoteApp/assets/90322848/4898639c-e0a2-4533-98b3-9155c8a539ef">
 <img width="325" alt="Screenshot 2024-01-19 at 2 10 58 PM" src="https://github.com/Nirali123456789/CleanArchitecture-NoteApp/assets/90322848/63fcaf96-7903-4ab0-a6a7-f12ee2bf8f93">
-<img width="424" alt="Screenshot 2024-01-19 at 2 10 50 PM" src="https://github.com/Nirali123456789/CleanArchitecture-NoteApp/assets/90322848/935c546d-f48a-427d-b391-f5af2114c1cf">
-<img width="424" alt="Screenshot 2024-01-19 at 2 10 40 PM" src="https://github.com/Nirali123456789/CleanArchitecture-NoteApp/assets/90322848/94d5bdf3-dc1d-47ef-8629-da47c9ffd929">
+<img width="325" alt="Screenshot 2024-01-19 at 2 10 50 PM" src="https://github.com/Nirali123456789/CleanArchitecture-NoteApp/assets/90322848/935c546d-f48a-427d-b391-f5af2114c1cf">
+<img width="325" alt="Screenshot 2024-01-19 at 2 10 40 PM" src="https://github.com/Nirali123456789/CleanArchitecture-NoteApp/assets/90322848/94d5bdf3-dc1d-47ef-8629-da47c9ffd929">
 
 
 ## How to Build
